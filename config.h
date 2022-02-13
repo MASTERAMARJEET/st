@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:size=13:antialias=true:autohint=true";
+static char *font = "Fira Code:size=12:antialias=true:autohint=true";
 static int borderpx = 1;
 
 /*
